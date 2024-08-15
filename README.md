@@ -1,5 +1,5 @@
 ### README ###
-PASOS PARA UTILIZAR EL API
+PASOS PARA UTILIZAR EL API Y NOTAS
 
 1. Primero debemos detener instalado MySQL o Docker con Mysql como contenedor ejecutado
 2. Es importante cargar base de datos con informacion, si no arrojara null. Esto es asi porque no hay mucho tiempo para las excepciones
