@@ -12,7 +12,7 @@ import java.util.List;
 @AllArgsConstructor
 public class PersonaServiceImpl implements  PersonaServiceI{
 
-    public static PersonaRepository personaRepository;
+    private final PersonaRepository personaRepository;
 
 
     @Override
